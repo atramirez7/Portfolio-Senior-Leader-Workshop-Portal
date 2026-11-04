@@ -16,7 +16,7 @@ The result is a **Python/Django web application** supporting the workshop lifecy
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 The legacy system presented several operational challenges:
 
@@ -32,7 +32,7 @@ The new application was designed around the actual business workflow rather than
 
 ---
 
-## 💡 The Solution
+## The Solution
 
 I designed and developed a **role-based Django application** that centralizes workshop administration and provides different experiences based on each user's responsibilities.
 
@@ -71,7 +71,7 @@ Participants can transition into alumni status after completing the program, all
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Role-Based Dashboards
 
@@ -203,7 +203,7 @@ The application uses `django-import-export` to support structured data export fu
 
 ---
 
-## 🏗️ Application Architecture
+## Application Architecture
 
 ```text
 ┌───────────────────────────────┐
@@ -247,7 +247,7 @@ The application is built around relational models rather than isolated records. 
 
 ---
 
-## 🔄 Example Participant Lifecycle
+## Example Participant Lifecycle
 
 ```text
 Nominator
@@ -345,7 +345,7 @@ Working through deployment challenges strengthened my experience with:
 
 ---
 
-## 👩‍💻 My Role
+## My Role
 
 I serve as the **primary developer and technical owner** of the application.
 
@@ -370,7 +370,7 @@ I work directly with the program manager to translate operational requirements i
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 ### Design Around the Workflow
 
@@ -419,27 +419,8 @@ One of the next stages of the project is ensuring that future developers can und
 
 ---
 
-## 🔒 Why Isn't the Source Code Public?
 
-This project was developed as part of my professional work.
-
-For security, confidentiality, and intellectual property reasons, the production source code is **not publicly available**.
-
-This repository instead serves as a technical case study demonstrating:
-
-- The problem being solved
-- System architecture
-- Application functionality
-- Engineering decisions
-- Technologies used
-- Development challenges
-- Lessons learned
-
-No production credentials, source code, participant information, internal URLs, or proprietary organizational data are included.
-
----
-
-## 📊 Project Status
+## Project Status
 
 **Production Application — Actively Maintained**
 

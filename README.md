@@ -401,21 +401,21 @@ One of the next stages of the project is ensuring that future developers can und
 
 > Screenshots shown in this repository are sanitized and contain no sensitive participant or organizational information.
 
-### Admin Dashboard
+### Homepage
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Homepage](SLW_Home_page.png)
 
-### Nomination Workflow
+### Nomination
 
-![Nomination Workflow](screenshots/nomination-workflow.png)
+![Nomination](SLW_Nomination.png)
 
-### Participant Dashboard
+### Admin Backend
 
-![Participant Dashboard](screenshots/participant-dashboard.png)
+![Admin Backend](SLW_Admin.png)
 
-### Pre-Work Workflow
+### Review Work Submission
 
-![Pre-Work Workflow](screenshots/prework-wizard.png)
+![Review Work Submission](SLW_Submission.png)
 
 ---
 
